@@ -1,4 +1,4 @@
-# :envelope: Sending Email com Python :envelope:
+# :envelope: Sending Email with Python :envelope:
 
  Code snippet to perform email sending tests
  
